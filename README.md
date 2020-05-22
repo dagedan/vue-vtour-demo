@@ -1,4 +1,4 @@
-# vtour-demo
+# vue-vtour-demo
 
 ## Project setup
 ```
